@@ -432,12 +432,8 @@
 				<div class="clearfix"></div>	
 	</div>		
 </div>		
-<!-- footer -->
-	<div class="footer">
-		<div class="container">
-			<p>Template by <a href="http://w3layouts.com" target="_blank"> w3layouts</a></p>
-		</div>
-	</div>
-<!-- footer -->
+<?php
+	include("footer.php");
+?>
 </body>
 </html>
