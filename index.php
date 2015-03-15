@@ -6,8 +6,8 @@
 		<div class="col-md-6">
 		</div>
 		<div class="col-md-6 banner-info">
-			<h1>Big Title Here</h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sed malesuada sapien. Nulla aliquam orci nec massa hendrerit tincidunt. Donec in sollicitudin lacus. Curabitur et faucibus nulla. Maecenas sit amet semper libero, in iaculis felis. Aliquam erat volutpat. Donec sollicitudin turpis eget tortor tincidunt euismod.</p>
+			<h1>POLISTORE</h1>
+			<p>Somos la tienda perteneciente a la universidad Politécnica que busca Fortalecer e incrementar la imagen institucional de la comunidad universitaria dela UPSLP, poniendo a su alcance un conjunto de productos y souvenirs innovadores con signos propios y característicos dentro de las instalaciones de la institución que logren crear una identidad de pertenencia y sean el reflejo de los principios, valores, cultura y misión establecidos en las funciones sustantivas. Para los alumnos, docentes y todas aquellas personas que se encuentran identificadas de algún modo con el plantel.  </p>
 			<a class="show-more" href="#">SHOW ME MORE</a>
 		</div>
 			<div class="clearfix"> </div>
@@ -19,8 +19,8 @@
 			<div class="col-md-6 chuk">
 				
 					<div class="blanc-info">
-						<h3>2014 Chuck Taylor ALL STARS</h3>
-						<h4>NOW IN STOCK!FREE SHIPPINGSTARTING AT $24.99</h4>
+						<h3>Adquiere te mochila POLISTORE</h3>
+						<h4>Nueva a un precio muy accesible</h4>
 						<a class="show" href="#">SHOW ME MORE</a>
 					</div>
 			</div>
